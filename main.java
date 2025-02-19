@@ -8,5 +8,8 @@ class main {
     System.out.println("hello");
     System.out.println("added one more line");
 
+    Student student = new Student();
+    student.sayHello();
+
   }
 }
